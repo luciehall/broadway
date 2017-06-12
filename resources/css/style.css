@@ -1,0 +1,17 @@
+body{
+  text-align:center;
+  font-family: Helvetica, sans-serif;
+}
+nav a{
+  display:block;
+  font-size:18px;
+  color:white;
+}
+h1{
+  font-size: 60px;
+  color:#ffffff;
+  font-weight:bold;
+}
+.full-width {
+  background: url(../img/flatiron.png)
+}
